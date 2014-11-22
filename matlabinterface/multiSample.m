@@ -1,3 +1,5 @@
+% Nikos Arechiga 2014
+
 function samples = multiSample( set, variables, lowerBound, upperBound, forceField, numSamples );
 
 	import java.util.*;

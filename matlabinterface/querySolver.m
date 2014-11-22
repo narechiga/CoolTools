@@ -1,4 +1,5 @@
 
+% Nikos Arechiga 2014
 
 % Queries dReal about a logical formula, as long as it is the sort of
 % formula that dReal can think about, i.e. no quantifiers and all that
